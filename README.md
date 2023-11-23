@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello everyone 👋
 
-<!--
-**Poolwerx/Poolwerx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+I am trying to find something new for myself
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Navigation
+
+- 📁 learning Python, DS, machine learning, DL
+- 🤖 arduino enjoyer.
+
+## Stack
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "PoolWerx"
+        self.languages = ["Python", "C++"]
+        self.tools = ["Git", "Pycharm"]
+
+    def say_hi(self):
+        print("hey man!")
+
+me = Developer()
+me.say_hi()
