@@ -9,5 +9,5 @@ I am trying to find something new for myself
 - 📁 learning Python, DS, machine learning, DL
 - 🤖 arduino enjoyer.
 
-![](https://media.giphy.com/media/SvLuDbUOSUkDw9vpdl/giphy.gif)
+<img src="https://media.giphy.com/media/SvLuDbUOSUkDw9vpdl/giphy.gif" width=300>
 
