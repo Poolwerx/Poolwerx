@@ -1,8 +1,8 @@
 # Hello everyone 👋
 
 ## About
-I am trying to find something new for myself in Data Science
-My kaggle [profile](https://www.kaggle.com/nicovern)
+- I am trying to find something new for myself in Data Science
+- My kaggle [profile](https://www.kaggle.com/nicovern)
 # Technology Stack
 
 ## Programming Languages
