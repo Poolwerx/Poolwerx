@@ -20,7 +20,7 @@
 
 ### Interests
 
-- Data Science, Data Engineering
+- Data Science
 - projects for yourself with Arduino
 
 <img src="https://media.giphy.com/media/SvLuDbUOSUkDw9vpdl/giphy.gif" width=100>
