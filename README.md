@@ -23,5 +23,6 @@
 - Data Science
 - projects for yourself with Arduino
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/PoolWerx?theme=dark&font=Noto%20Sans%20Kannada&ext=heatmap)
 <img src="https://media.giphy.com/media/SvLuDbUOSUkDw9vpdl/giphy.gif" width=100>
 
